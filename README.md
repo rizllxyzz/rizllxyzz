@@ -11,8 +11,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rizllxyzz-181717?style=flat&logo=github&logoColor=white)](https://github.com/rizllxyzz)
+[![Blog](https://img.shields.io/badge/Blog-rizllxyzz.blogspot.com-FF5722?style=flat&logo=blogger&logoColor=white)](https://rizllxyzz.blogspot.com)
 [![Hackathon](https://img.shields.io/badge/Open_Agent_Hackathon-2026-ff6b35?style=flat&logo=hackthebox&logoColor=white)](https://hackathon.genai.works)
-[![Status](https://img.shields.io/badge/Status-Building-2ea44f?style=flat)](https://github.com/rizllxyzz)
 
 </div>
 
@@ -29,8 +29,10 @@ focus:
   - Data Virtualization (Zetaris)
   - Computer Vision (Face ID)
   - Anti-spoofing & Security
-currently: Building Presensi School (Smart Attendance)
+  - Web Development (PHP, Python, TypeScript)
+currently: Building Smart Attendance System
 hackathon: Open Agent Hackathon 2026
+blog: https://rizllxyzz.blogspot.com
 ```
 
 ---
@@ -42,37 +44,48 @@ hackathon: Open Agent Hackathon 2026
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 </div>
 
-**Sponsor Tech:** `Zetaris` · `Meterless Nightshift` · `NVIDIA Nemotron` · `Cursor`
+### 🤖 AI & Sponsor Tech
+
+![Zetaris](https://img.shields.io/badge/Zetaris-Data%20Layer-00A3E0?style=flat)
+![Meterless](https://img.shields.io/badge/Meterless-Nightshift-8b7bff?style=flat)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Nemotron-76B900?style=flat&logo=nvidia&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI%20Coding-000000?style=flat)
+
+### 📚 Frameworks & Libraries
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![face-api.js](https://img.shields.io/badge/face--api.js-FF6F00?style=flat)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🧠 Keahlian
 
-### [🛡️ Presensi School - Smart Attendance System](https://github.com/rizllxyzz/Attendance-Agent)
+- **Backend**: PHP (Laravel-style), Python (FastAPI), REST API design
+- **Frontend**: HTML/CSS/JS, responsive UI, dashboard design
+- **AI/ML**: LLM integration (OpenAI-compatible), agent orchestration, intent classification
+- **Data**: MySQL, Zetaris Data Virtualization, SQL optimization
+- **Computer Vision**: Face ID (face-api.js), descriptor matching, anti-spoofing
+- **DevOps**: Docker, docker-compose, Git, Linux
+- **Security**: GPS anti-spoofing, session security, CSRF protection
 
-> Smart attendance with **Face ID**, **GPS anti-spoofing**, and **AI agent** (SmartJournal AI).
+---
 
-| Feature | Status |
-|---|---|
-| Face ID enrollment & verification | ✅ |
-| GPS radius verification (anti-spoof) | ✅ |
-| AI chatbot for attendance queries | ✅ |
-| Real-time recap & history | ✅ |
-| Izin/Sakit request flow | ✅ |
-| Admin panel (settings, users, reports) | ✅ |
-| Docker full stack | ✅ |
-| Python agent (Zetaris + Scout Intent + Nightshift) | ✅ |
+## 📝 Blog
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-Attendance--Agent-181717?style=flat&logo=github&logoColor=white)](https://github.com/rizllxyzz/Attendance-Agent)
-[![Release](https://img.shields.io/github/v/release/rizllxyzz/Attendance-Agent?style=flat)](https://github.com/rizllxyzz/Attendance-Agent/releases)
-[![Stars](https://img.shields.io/github/stars/rizllxyzz/Attendance-Agent?style=flat)](https://github.com/rizllxyzz/Attendance-Agent/stargazers)
+Saya menulis tentang teknologi, AI, dan pengembangan software di blog:
+
+[![Blog](https://img.shields.io/badge/Visit%20Blog-rizllxyzz.blogspot.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://rizllxyzz.blogspot.com)
 
 ---
 
@@ -108,6 +121,7 @@ hackathon: Open Agent Hackathon 2026
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-rizllxyzz-181717?style=flat&logo=github&logoColor=white)](https://github.com/rizllxyzz)
+[![Blog](https://img.shields.io/badge/Blog-rizllxyzz.blogspot.com-FF5722?style=flat&logo=blogger&logoColor=white)](https://rizllxyzz.blogspot.com)
 
 ---
 
