@@ -93,20 +93,6 @@ Saya menulis tentang teknologi, AI, dan pengembangan software di blog:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizllxyzz&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizllxyzz&theme=github-light&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=1a1a2e" width="95%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rizllxyzz&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
 </div>
 
 ---
