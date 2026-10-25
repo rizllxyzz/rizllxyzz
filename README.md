@@ -6,7 +6,7 @@
 
 ### `Full-Stack Developer` · `AI Agent Builder` · `Open Agent Hackathon 2026`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+attendance+systems;Zetaris+%7C+Meterless+Nightshift+%7C+NVIDIA+Nemotron;Face+ID+%2B+GPS+Anti-Spoofing+%2B+AI+Chatbot" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+attendance+systems;Full-Stack+Developer+%7C+AI+Agent+Builder;Face+ID+%2B+GPS+Anti-Spoofing+%2B+AI+Chatbot" />
 
 <br/>
 
@@ -26,7 +26,7 @@ role: Full-Stack Developer & AI Agent Builder
 location: Indonesia 🇮🇩
 focus:
   - AI Agents & LLM Orchestration
-  - Data Virtualization (Zetaris)
+  - Data Virtualization & SQL
   - Computer Vision (Face ID)
   - Anti-spoofing & Security
   - Web Development (PHP, Python, TypeScript)
@@ -67,7 +67,7 @@ blog: https://rizllxyzz.blogspot.com
 - **Backend**: PHP (Laravel-style), Python (FastAPI), REST API design
 - **Frontend**: HTML/CSS/JS, responsive UI, dashboard design
 - **AI/ML**: LLM integration (OpenAI-compatible), agent orchestration, intent classification
-- **Data**: MySQL, Zetaris Data Virtualization, SQL optimization
+- **Data**: MySQL, SQL optimization, database design
 - **Computer Vision**: Face ID (face-api.js), descriptor matching, anti-spoofing
 - **DevOps**: Docker, docker-compose, Git, Linux
 - **Security**: GPS anti-spoofing, session security, CSRF protection
