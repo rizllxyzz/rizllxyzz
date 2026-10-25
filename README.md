@@ -54,13 +54,6 @@ blog: https://rizllxyzz.blogspot.com
 
 </div>
 
-### 🤖 AI & Sponsor Tech
-
-![Zetaris](https://img.shields.io/badge/Zetaris-Data%20Layer-00A3E0?style=flat)
-![Meterless](https://img.shields.io/badge/Meterless-Nightshift-8b7bff?style=flat)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-Nemotron-76B900?style=flat&logo=nvidia&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI%20Coding-000000?style=flat)
-
 ### 📚 Frameworks & Libraries
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
